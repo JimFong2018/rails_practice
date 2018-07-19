@@ -36,6 +36,10 @@ gem 'faker', '~> 1.8', '>= 1.8.7'
 gem 'will_paginate', '~> 3.1.0'
 gem 'nokogiri', '~> 1.6', '>= 1.6.8'
 gem 'bootstrap-will_paginate', '~> 0.0.10'
+gem 'carrierwave', '~> 1.2', '>= 1.2.3'
+gem 'mini_magick', '~> 4.5', '>= 4.5.1'
+gem 'fog-aws', '~> 0.7.6'
+gem 'fog', '~> 1.38'
 
 
 # Use ActiveStorage variant
